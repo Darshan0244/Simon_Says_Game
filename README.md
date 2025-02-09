@@ -2,6 +2,8 @@
 
 This is a web-based version of the classic Simon Says memory game. The goal of the game is to follow and repeat the randomly generated color sequence. As the game progresses, the sequence gets longer and more challenging.
 
+![image alt](https://github.com/Darshan0244/Simon_Says_Game/blob/9784d2dda74ef2079ecf20e8c29e1d6b3767786f/Screenshot%202025-02-09%20153133.png)
+
 ## Table of Contents
 - [How to Play](#how-to-play)
 - [Features](#features)
