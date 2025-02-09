@@ -2,9 +2,11 @@
 
 This is a web-based version of the classic Simon Says memory game. The goal of the game is to follow and repeat the randomly generated color sequence. As the game progresses, the sequence gets longer and more challenging.
 
-![image_alt](https://github.com/Darshan0244/Simon_Says_Game/blob/55f220895d359ccf22f60c75eab62196fa6a4e35/Screenshot%202025-02-09%20154358.png)
-![image alt](https://github.com/Darshan0244/Simon_Says_Game/blob/9784d2dda74ef2079ecf20e8c29e1d6b3767786f/Screenshot%202025-02-09%20153133.png)
-![image alt](https://github.com/Darshan0244/Simon_Says_Game/blob/9784d2dda74ef2079ecf20e8c29e1d6b3767786f/Screenshot%202025-02-09%20153133.png)
+<p align="center">
+  <img src="https://github.com/Darshan0244/Simon_Says_Game/blob/55f220895d359ccf22f60c75eab62196fa6a4e35/Screenshot%202025-02-09%20154358.png" alt="image_alt" width="300" style="display:inline-block;"/>
+  <img src="https://github.com/Darshan0244/Simon_Says_Game/blob/9784d2dda74ef2079ecf20e8c29e1d6b3767786f/Screenshot%202025-02-09%20153133.png" alt="image alt" width="300" style="display:inline-block;"/>
+  <img src="https://github.com/Darshan0244/Simon_Says_Game/blob/e8a3711fc0373648354ed53ec612e7118ff3e8ca/Screenshot%202025-02-09%20154430.png" alt="image alt" width="300" style="display:inline-block;"/>
+</p>
 
 ## Table of Contents
 - [How to Play](#how-to-play)
