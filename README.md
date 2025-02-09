@@ -48,11 +48,6 @@ This is a web-based version of the classic Simon Says memory game. The goal of t
 
 ---
 
-3. **Open `index.html` in your browser**:
-    You can open the game by simply double-clicking on the `index.html` file in the project folder, or by using a live server extension if you’re using VSCode or a similar editor.
-
----
-
 ## ⚙️Technologies Used
 - **HTML**: For the game structure and layout.
 - **CSS**: For styling the game elements, including colors and animations.
